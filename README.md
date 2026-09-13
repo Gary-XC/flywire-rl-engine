@@ -72,15 +72,14 @@ Rather than treating all network weights uniformly:
 ## Quickstart
 
 ### Prerequisites
-- Python 3.10+
-- Linux (Ubuntu/Debian recommended) or macOS
+- Python 3.13+ (for nes-py and gym-super-mario-bros to work, or Python 3.11.X if stable-baselines3 is used)
 
 ### Installation
 
 ```bash
 # Clone repository
-git clone https://github.com/your-username/FlyWire-RL.git
-cd FlyWire-RL
+git clone https://github.com/Gary-XC/flywire-rl-engine.git
+cd flywire-rl-engine
 
 # Create virtual environment
 python3 -m venv .venv
