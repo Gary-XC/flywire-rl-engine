@@ -1,9 +1,5 @@
 # FlyWire-RL: The Connectome Controller
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Python: 3.10+](https://img.shields.io/badge/Python-3.10%2B-brightgreen.svg)](https://python.org)
-[![Status: Experimental](https://img.shields.io/badge/Status-Initial%20Research-orange.svg)]()
-
 > **Can a biological brain beat Super Mario Bros?**  
 > `FlyWire-RL` replaces conventional black-box neural networks (MLPs, CNNs) in Reinforcement Learning with a Graph Neural Network (GNN) constrained directly to the 1:1 synaptic wiring diagram of the *Drosophila melanogaster* (fruit fly) connectome.
 
