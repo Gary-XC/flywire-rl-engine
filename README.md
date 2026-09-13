@@ -1,7 +1,6 @@
 # FlyWire-RL: The Connectome Controller
 
-> **Can a biological brain beat Super Mario Bros?**  
-> `FlyWire-RL` replaces conventional black-box neural networks (MLPs, CNNs) in Reinforcement Learning with a Graph Neural Network (GNN) constrained directly to the 1:1 synaptic wiring diagram of the *Drosophila melanogaster* (fruit fly) connectome.
+**Can a biological brain beat Super Mario Bros?**  
 
 ---
 
